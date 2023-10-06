@@ -1,0 +1,23 @@
+{
+  "name": "email-verifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "@types/react": "^18.2.21",
+    "typescript": "^5.2.2"
+  }
+}
